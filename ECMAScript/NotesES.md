@@ -49,3 +49,8 @@ Stage4: Finished (va a ser desplegada en la version normalmente en JUNIO)
 
 https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 
+
+--Clase 15 Generator
+
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Generator
+
